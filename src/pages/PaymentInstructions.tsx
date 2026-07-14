@@ -18,9 +18,9 @@ const PaymentInstructions = () => {
   const [loading, setLoading] = useState(false);
   const [showFailure, setShowFailure] = useState(false);
 
-  const amount = "9,500";
-  const accountNumber = "5055085416";
-  const bankName = "Ayomide Akerele";
+  const amount = "8,550";
+  const accountNumber = "6848669626";
+  const bankName = "Oryiman Dickson Ugudu";
   const accountName = "Moniepoint MFB";
   const referenceId = `REF${Date.now()}`;
 
